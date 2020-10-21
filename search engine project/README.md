@@ -1,4 +1,4 @@
-## This is my search engine project
+## This is my 'covid-19'db search engine project with 4 different search methods
 
 To make this thing work you will need:
 <ol>

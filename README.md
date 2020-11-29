@@ -1,6 +1,6 @@
 # projects
 
-### ml py - python notebooks
+### [python notebooks](https://github.com/victoriassazonova/projects/tree/main/ml%20py)
 ### search - search engine project
 ### algorithms - Golang algos and data structures
 ### database - sql db

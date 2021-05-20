@@ -1,6 +1,6 @@
 # projects
 
-### [chat_bot](https://github.com/victoriassazonova/test_task)
+### [chat_bot](https://github.com/victoriassazonova/test_task) вв
 ### [python notebooks](https://github.com/victoriassazonova/projects/tree/main/ml%20py)
 ### [search engine project](https://github.com/victoriassazonova/projects/tree/main/search%20engine%20project)
 ### [Golang algos and data structures](https://github.com/victoriassazonova/projects/tree/main/algorithms)
